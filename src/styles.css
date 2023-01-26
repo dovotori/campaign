@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+}
+
+.App {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  font-family: Helvetica, "Apple Color Emoji", Arial, "PingFang TC", "Heiti TC",
+    "Microsoft Jhenghei", sans-serif;
+  font-size: 16px;
+  text-align: center;
+  max-width: 400px;
+  margin: 0 auto;
+}
